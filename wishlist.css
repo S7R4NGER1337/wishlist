@@ -15,16 +15,16 @@ body {
   justify-content: center;
   border: 6px solid #ed786a;
   padding: 20px;
-  max-width: 600px;
+  max-width: 500px;
   border-radius: 10px;
   align-self: center;
   background: #f0f0f0
 }
 
 .wishlist-container h1 {
-  font-size: 39px;
+  font-size: 40px;
   text-align: center;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
   font-family: 'Source Sans Pro';
 }
 
@@ -33,8 +33,6 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  border-top: 1px solid #f0f0f0;
-  border-bottom: 1px solid #f0f0f0;
   border-radius: 10px;
 }
 
@@ -46,6 +44,19 @@ body {
   width: 400px;
   border-radius: 15px;
   margin : 10px;
+  font-family: 'Source Sans Pro';
+  color: #666;
+  background: white
+}
+
+.btn1, .btn2, .btn3, .btn4{
+  font-size: 24px;
+  padding: 15px;
+  border: 3px solid black;
+  border-radius: 1px;
+  width: 400px;
+  border-radius: 15px;
+  margin : 9px;
   font-family: 'Source Sans Pro';
   color: #666;
   background: white
